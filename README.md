@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Khodl/Khodl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer portfolio
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Name  | Status |  Year | Description |
+| ----- | ------ | ------ | ------ |
+| [Chatfuel](https://chatfuel.com)  | 💰Acquired | 2015 | First no-code chatbot platform |
+| [UN Talent](https://untalent.org)  | 🚀 Growing | 2020 | Job aggregator for open positions in the UN |
+| [ProptechList](https://proptechlist.com)  | 🚀 Growing | 2018 | Database of startups and services in real estate |
+| Zournal | 🌱 Launching | 2021 | Publication platform with fair remuneration |
+| Busted App  | 🌱 Relaunching | 2013 | Crowd-sourced alert system for public transportation |
+| [Sans-Sursis](https://sans-sursis.com)  | 🚪 Closed | 2006 | Prison Break inspired browser game |
+| UNMOVE  | ♻️ Merged | 2006 | Tool to help expats selling their goods |
+| Lead007 | 💀 Dead | 2017 | Lead generation platform via chatbot |
+| Advisay | 💀 Dead | 2016 | Real estate virtual agent |
