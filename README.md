@@ -11,11 +11,11 @@
 | [Muffilm](https://muffilm.com)  | ⚙️ Running | 2020 | Movie night facilitator |
 | [Screensoap](https://screensoap.com)  | ⚙️ Running | 2019 | Simple screenshot API |
 | [Biceps.io](https://biceps.io)  | ⚙️ Running  | 2019 | Home workout tracker |
-| [Proptech Events](https://proptechevents.com)  | ⚙️ Running  | 2019 | Tailored calendar for real estate events |
+| [UNMOVE](https://untalent.org/move/from-UNMOVE.org)  | ♻️ Merged | 2020 | Tool to help expats selling their goods |
+| [Proptech Events](https://proptechevents.com)  | ⌛️ Idle  | 2019 | Tailored calendar for real estate events |
 | [Messengers.io](https://messengers.io)  | ⌛️ Idle | 2016 | Omni-channel messaging API |
 | [Chatbot.me](https://chatbot.me)  | ⌛️ Idle | 2016 | Landing page for conversational agents |
 | [Sans-Sursis](https://sans-sursis.com)  | 🚪 Closed | 2006 | Prison Break inspired browser game |
-| [UNMOVE](https://untalent.org/move/from-UNMOVE.org)  | ♻️ Merged | 2006 | Tool to help expats selling their goods |
 | Investboy | 💀 Dead | 2018 | Algorithmic stock recommendation |
 | Lead007 | 💀 Dead | 2017 | Lead generation platform via chatbot |
 | Advisay | 💀 Dead | 2016 | Real estate virtual agent |
