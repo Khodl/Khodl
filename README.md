@@ -5,8 +5,8 @@
 | [Chatfuel](https://chatfuel.com)  | 💰Acquired | 2015 | First no-code chatbot platform |
 | [UN Talent](https://untalent.org)  | 🚀 Growing | 2020 | Job aggregator for open positions in the UN |
 | [ProptechList](https://proptechlist.com)  | 🚀 Growing | 2018 | Database of startups and services in real estate |
-| [Zournal](https://zournal.ch) | 🚀 Growing | 2021 | Publication platform with fair remuneration |
-| Outraffic | 🚧 WIP | 2021 | Domain name monitor |
+| [Unfraud](https://unfraud.org)  | 🌱 Launching | 2022 | Suspicious email and url verification for NGOs |
+| [Zournal](https://zournal.ch) | 🌱 Launching | 2021 | Publication platform with fair remuneration |
 | Busted App  | 🌱 Relaunching | 2013 | Crowd-sourced alert system for public transportation |
 | [Muffilm](https://muffilm.com)  | ⚙️ Running | 2020 | Movie night facilitator |
 | [Screensoap](https://screensoap.com)  | ⚙️ Running | 2019 | Simple screenshot API |
