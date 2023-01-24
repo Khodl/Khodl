@@ -5,6 +5,7 @@
 | [Chatfuel](https://chatfuel.com)  | 💰Acquired | 2015 | First no-code chatbot platform |
 | [UN Talent](https://untalent.org)  | 🚀 Growing | 2020 | Job aggregator for open positions in the UN |
 | [ProptechList](https://proptechlist.com)  | 🚀 Growing | 2018 | Database of startups and services in real estate |
+| [Recochat](https://recochat.com)  | 🚀 Growing | 2022 | Tailored product advisor |
 | [Unfraud](https://unfraud.org)  | 🌱 Launching | 2022 | Suspicious email and url verification for NGOs |
 | [Zournal](https://zournal.ch) | ⌛️ Idle | 2021 | Publication platform with fair remuneration |
 | Busted App  | 🌱 Relaunching | 2013 | Crowd-sourced alert system for public transportation |
