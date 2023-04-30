@@ -5,8 +5,8 @@
 | [Chatfuel](https://chatfuel.com)  | 💰Acquired | 2015 | First no-code chatbot platform |
 | [UN Talent](https://untalent.org)  | 🚀 Growing | 2020 | Job aggregator for open positions in the UN |
 | [ProptechList](https://proptechlist.com)  | 🚀 Growing | 2018 | Database of startups and services in real estate |
-| [Recochat](https://recochat.com)  | 🚀 Growing | 2022 | Tailored product advisor |
-| [Unfraud](https://unfraud.org)  | 🌱 Launching | 2022 | Suspicious email and url verification for NGOs |
+| [Recochat](https://recochat.com)  | ⚙️ Running | 2022 | Tailored product advisor |
+| [Unfraud](https://unfraud.org)  | ⚙️ Running | 2022 | Suspicious email and url verification for NGOs |
 | [Zournal](https://zournal.ch) | ⌛️ Idle | 2021 | Publication platform with fair remuneration |
 | Busted App  | 🌱 Relaunching | 2013 | Crowd-sourced alert system for public transportation |
 | [Muffilm](https://muffilm.com)  | ⚙️ Running | 2020 | Movie night facilitator |
@@ -15,7 +15,7 @@
 | [Proptech Events](https://proptechevents.com)  | ⌛️ Idle  | 2019 | Tailored calendar for real estate events |
 | [Messengers.io](https://messengers.io)  | ⌛️ Idle | 2016 | Omni-channel messaging API |
 | [Chatbot.me](https://chatbot.me)  | ⌛️ Idle | 2016 | Landing page for conversational agents |
-| [Sans-Sursis](https://sans-sursis.com)  | 🚪 Closed | 2006 | Prison Break inspired browser game |
+| [Sans-Sursis](https://sans-sursis.com)  | 🌱 Relaunching | 2006 | Prison Break inspired browser game |
 | Biceps.io  | 💀 Dead  | 2019 | Home workout tracker |
 | Investboy | 💀 Dead | 2018 | Algorithmic stock recommendation |
 | Lead007 | 💀 Dead | 2017 | Lead generation platform via chatbot |
