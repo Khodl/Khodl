@@ -9,7 +9,6 @@
 | [Unfraud](https://unfraud.org)  | ⚙️ Running | 2022 | Suspicious email and url verification for NGOs |
 | [Zournal](https://zournal.ch) | ⌛️ Idle | 2021 | Publication platform with fair remuneration |
 | Busted App  | 🌱 Relaunching | 2013 | Crowd-sourced alert system for public transportation |
-
 | [Screensoap](https://screensoap.com)  | ⚙️ Running | 2019 | Simple screenshot API |
 | [UNMOVE](https://unmove.org)  | ♻️ Merged | 2020 | Tool to help expats selling their goods |
 | [Proptech Events](https://proptechevents.com)  | ⌛️ Idle  | 2019 | Tailored calendar for real estate events |
