@@ -15,7 +15,7 @@
 | [Messengers.io](https://messengers.io)  | ⌛️ Idle | 2016 | Omni-channel messaging API |
 | [Chatbot.me](https://chatbot.me)  | ⌛️ Idle | 2016 | Landing page for conversational agents |
 | [Sans-Sursis](https://sans-sursis.com)  | 🌱 Relaunching | 2006 | Prison Break inspired browser game |
-| Muffilm  | ⚙💀 Dead | 2020 | Movie night facilitator |
+| Muffilm  | 💀 Dead | 2020 | Movie night facilitator |
 | Biceps.io  | 💀 Dead  | 2019 | Home workout tracker |
 | Investboy | 💀 Dead | 2018 | Algorithmic stock recommendation |
 | Lead007 | 💀 Dead | 2017 | Lead generation platform via chatbot |
