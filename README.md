@@ -5,8 +5,8 @@
 | [Chatfuel](https://chatfuel.com)  | 💰Acquired | 2015 | First no-code chatbot platform |
 | [UN Talent](https://untalent.org)  | 🚀 Growing | 2020 | Job aggregator for open positions in the UN |
 | [ProptechList](https://proptechlist.com)  | 🚀 Growing | 2018 | Database of startups and services in real estate |
+| [Unfraud](https://unfraud.org)  | 🚀 Growing | 2022 | Suspicious email and url verification for NGOs |
 | [Recochat](https://recochat.com)  | ⚙️ Running | 2022 | Tailored product advisor |
-| [Unfraud](https://unfraud.org)  | ⚙️ Running | 2022 | Suspicious email and url verification for NGOs |
 | [Screensoap](https://screensoap.com)  | ⚙️ Running | 2019 | Simple screenshot API |
 | Busted App  | 🌱 Relaunching | 2013 | Crowd-sourced alert system for public transportation |
 | Sans-Sursis  | 🌱 Relaunching | 2006 | Prison Break inspired browser game |
