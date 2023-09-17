@@ -2,7 +2,7 @@
 
 | Name  | Status |  Year | Description |
 | ----- | ------ | ------ | ------ |
-| [Chatfuel](https://chatfuel.com)  | 💰Acquired | 2015 | First no-code chatbot platform |
+| [Chatfuel](https://chatfuel.com)  | 💰 Acquired | 2015 | First no-code chatbot platform |
 | [UN Talent](https://untalent.org)  | 🚀 Growing | 2020 | Job aggregator for open positions in the UN |
 | [ProptechList](https://proptechlist.com)  | 🚀 Growing | 2018 | Database of startups and services in real estate |
 | [Unfraud](https://unfraud.org)  | 🚀 Growing | 2022 | Suspicious email and url verification for NGOs |
