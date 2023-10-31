@@ -4,12 +4,12 @@
 | ----- | ------ | ------ | ------ |
 | [Chatfuel](https://chatfuel.com)  | 💰 Acquired | 2015 | First no-code chatbot platform |
 | [UN Talent](https://untalent.org)  | 🚀 Growing | 2020 | Job aggregator for open positions in the UN |
-| [Unfraud](https://unfraud.org)  | 🚀 Growing | 2022 | Suspicious email and url verification for NGOs |
+| [Unfraud](https://unfraud.org)  | 🚀 Growing | 2022 | Suspicious email and url verification for IGOs and NGOs |
 | [Recochat](https://recochat.com)  | ⚙️ Running | 2022 | Tailored product advisor |
 | [ProptechList](https://proptechlist.com)  | ⚙️ Running | 2018 | Database of startups and services in real estate |
 | [Screensoap](https://screensoap.com)  | ⚙️ Running | 2019 | Simple screenshot API |
 | Busted App  | 🌱 Relaunching | 2013 | Crowd-sourced alert system for public transportation |
-| Sans-Sursis  | 🌱 Relaunching | 2006 | Prison Break inspired browser game |
+| Sans-Sursis  | 🌱 Relaunching | 2006 | _Prison Break_ inspired browser game |
 | [Tchoukball Manager](https://tchoukballmanager.com)  | 🗝️ Re-opened | 2005 | The only virtual tchoukball game |
 | [Tchouk.net](https://tchouk.net)  | 🗝️ Re-opened | 2004 | The #1 community for tchoukball enthusiasts |
 | UNMOVE  | ♻️ Merged | 2020 | Tool to help expats selling their goods |
