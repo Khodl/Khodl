@@ -10,6 +10,8 @@
 | [Screensoap](https://screensoap.com)  | ⚙️ Running | 2019 | Simple screenshot API |
 | Busted App  | 🌱 Relaunching | 2013 | Crowd-sourced alert system for public transportation |
 | Sans-Sursis  | 🌱 Relaunching | 2006 | Prison Break inspired browser game |
+| [Tchoukball Manager](https://tchoukballmanager.com)  | 🗝️ Re-opened | 2005 | The only virtual tchoukball game |
+| [Tchouk.net](https://tchouk.net)  | 🗝️ Re-opened | 2004 | The #1 community for tchoukball enthusiasts |
 | UNMOVE  | ♻️ Merged | 2020 | Tool to help expats selling their goods |
 | Zournal | ⌛️ Idle | 2021 | Publication platform with fair remuneration |
 | Proptech Events  | ⌛️ Idle  | 2019 | Tailored calendar for real estate events |
@@ -21,7 +23,6 @@
 | Lead007 | 💀 Dead | 2017 | Lead generation platform via chatbot |
 | Advisay | 💀 Dead | 2016 | Virtual real estate agent |
 | Enjoyin' | 💀 Dead | 2014 | Tailored event platform |
-
 
 <!--
 Sport: Tchoukr, Tchoukball Manager, Tchoukball World, Tchoukball.club, Tchoukball.equipment, AGTB,
