@@ -5,6 +5,7 @@
 | [Chatfuel](https://chatfuel.com)  | 💰 Acquired | 2015 | First no-code chatbot platform |
 | [UN Talent](https://untalent.org)  | 🚀 Growing | 2020 | Job aggregator for open positions in the UN |
 | [Unfraud](https://unfraud.org)  | 🚀 Growing | 2022 | Suspicious email and url verification for IGOs and NGOs |
+| [Ports du Léman](https://ports-du-leman.ch)  | 🌱 Launching | 2022 | Directory for Lake Geneva |
 | [Recochat](https://recochat.com)  | ⚙️ Running | 2022 | Tailored product advisor |
 | [ProptechList](https://proptechlist.com)  | ⚙️ Running | 2018 | Database of startups and services in real estate |
 | [Screensoap](https://screensoap.com)  | ⚙️ Running | 2019 | Simple screenshot API |
