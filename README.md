@@ -5,6 +5,7 @@
 | [Chatfuel](https://chatfuel.com)  | 💰 Acquired | 2015 | First no-code chatbot platform |
 | [UN Talent](https://untalent.org)  | 🚀 Growing | 2020 | Job aggregator for open positions in the UN |
 | [Unfraud](https://unfraud.org)  | 🚀 Growing | 2022 | Suspicious email and url verification for IGOs and NGOs |
+| Colleagues.org  | 🌱 Launching | 2025 | Impactful networking in international organisations |
 | [Busted](https://busted.ch)  | 🚀 Growing | 2013 | Crowd-sourced alert system for public transportation |
 | [Ports du Léman](https://ports-du-leman.ch)  | 🚀 Growing | 2024 | Directory for Lake Geneva |
 | [Super Logeur](https://superlogeur.ch)  | 🌱 Launching | 2024 | Apartment finder |
